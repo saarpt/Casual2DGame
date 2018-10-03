@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f2c44617b7d1b3146a237780da2081e4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fabada
+  fontNames:
+  - Fabada
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a203d72c013491e49af6fb5305e99ea2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
